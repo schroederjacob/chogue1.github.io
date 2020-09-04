@@ -71,7 +71,7 @@ Dev Tools
 Github
 
     Git for version control
-    Github to hold the repos for Blogg
+    Github to hold the repos for BloggerBay
         * chogue1.git - app code 
         * chogue1.github.io.git - Github Pages for client website 
         * (we plan to change the name from chogue1 to blogger-bay at some point)
