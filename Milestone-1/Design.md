@@ -40,7 +40,7 @@ would be critical as well, since it would save time and effort.
 Web Development Framework
 
 After careful consideration, we wanted to create BloggerBay using the Django web 
-framework.
+framework with Python.
 
 Here is why we support this decision:
 
