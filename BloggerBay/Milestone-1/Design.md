@@ -11,7 +11,7 @@
 
 * File: Milestone-1/Design.md
 
-* URL: 
+* URL: https://github.com/chogue1/chogue1.github.io/blob/master/BloggerBay/Milestone-1/Design.md
 
 * Documents: Documents/CS350/BloggerBay
 
