@@ -2,14 +2,14 @@
 
 ### Jacob Schroeder, Seth Holland, Marcus Ariata, Christian Hogue
 
-# App Description: 
+## App Description: 
     
         This app will allow the user to build a blog, allowing other users to post articles. Users
         will have to log in, and will have their own profile page. The app will allow logged in users to
         search through other users posted articles and leave comments on them. Users will also be
         able to start an article, and save it without publishing it.
         
-# Features:
+## Features:
 
     * Login and account system.
     * Ability to write articles and publish them.
@@ -22,13 +22,13 @@
     * UI
     * Metadata (when articles are posted, site traffic, etc)
 
-# Technology
+## Technology
 
     * Python
     * Django
     * Postgres
     * GitHub
     
-# GitHub Implementation:
+## GitHub Implementation:
         We will create a GitHub repository which we are all collaborators on. This way we will all
         be able to keep track of files and work together
