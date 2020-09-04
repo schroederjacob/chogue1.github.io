@@ -1,6 +1,6 @@
-# Jacob Schroeder, Seth Holland, Wyat VonFeldt, Christian Hogue
-
 # App Name: BloggerBay
+
+# Jacob Schroeder, Seth Holland, Marcus Ariata, Christian Hogue
 
 # App Description: 
     
