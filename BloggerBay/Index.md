@@ -1,4 +1,4 @@
-# App Name: BloggerBay
+# BloggerBay
 
 ### Jacob Schroeder, Seth Holland, Marcus Ariata, Christian Hogue
 
