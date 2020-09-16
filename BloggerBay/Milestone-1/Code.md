@@ -1,4 +1,4 @@
-# milestone 1 - prject plan complete
+# milestone 1 - project plan complete
 
 ## PROJECT INFO
 
